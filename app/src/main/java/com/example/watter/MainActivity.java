@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<String> data;
     private ArrayAdapter<String> adapter;
     String aaa;
+    int lay = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
